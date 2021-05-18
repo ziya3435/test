@@ -1,8 +1,10 @@
 header {
   background-color: red;
+  color: blue;
 }
 
 footer {
   background-color: black;
   color: white;
+  text-align: center;
 }
